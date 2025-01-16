@@ -1,25 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dennis Muriithi</h1>
-<h3 align="center">Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=initials101&label=Profile%20views&color=0e75b6&style=flat" alt="initials101" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=initials101" alt="initials101" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/initials101" target="blank"><img src="https://img.shields.io/twitter/follow/initials101?logo=twitter&style=for-the-badge" alt="initials101" /></a> </p>
-
-- 🔭 I’m currently working on [picknest](https://github.com/initials101/picknest)
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://dennisportfolio-theta.vercel.app/](https://dennisportfolio-theta.vercel.app/)
-
-- 📝 I regularly write articles on [https://x.com/initials101](https://x.com/initials101)
-
-- 💬 Ask me about **Django, python javascript, nodeJs**
-
-- 📫 How to reach me **muriithidennis340@gmail.com**
-
-- ⚡ Fun fact **Lone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
