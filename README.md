@@ -25,7 +25,10 @@
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=13) -->
 
-<h3 align="center">Connect with me:</h3>
+```js
+    const connect = connectWithMe;
+```
+
 <p align="center">
 <a href="https://twitter.com/initials101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="initials101" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/initials101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="initials101" height="30" width="40" /></a>
