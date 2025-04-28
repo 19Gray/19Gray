@@ -20,7 +20,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=initials101&theme=tokyonight)
  [![GitHub Streak](https://streak-stats.demolab.com/?user=initials101&theme=tokyonight)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=initials101&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=initials101&theme=tokyonight)
 </div>
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=13) -->
