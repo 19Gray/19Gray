@@ -23,8 +23,11 @@
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=13) -->
 
-`certifications`
-![My Certificate]()
+## 🏅 Certifications
+
+<p align="center">
+  <img src="certifications/alx.png" alt="ALX Certificate" width="600"/>
+</p>
 
 `connectWithMe on:`
 
