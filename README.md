@@ -1,3 +1,7 @@
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,python,django,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,styledcomponents,postman,stackoverflow&perline=13)](#)
+
+
 <div align="center">	
 
 <br>
@@ -34,6 +38,5 @@
 <a href="https://www.leetcode.com/initials101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="initials101" height="30" width="40" /></a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,python,django,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,styledcomponents,postman,stackoverflow&perline=13)](#)
+
 
