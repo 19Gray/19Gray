@@ -26,7 +26,7 @@
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="certifications/alx.png" alt="ALX Certificate" width="600"/>
+  <img src="certifications/alx.png" alt="ALX Certificate" width="500"/>
 </p>
 
 `connectWithMe on:`
