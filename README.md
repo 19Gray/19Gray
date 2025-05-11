@@ -25,7 +25,7 @@
 </p>
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,python,django,next,expressjs,nodejs,mongodb,md,git,github,vscode,mysql,styledcomponents,postman,linux,vim,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,python,django,next,expressjs,nodejs,mongodb,md,git,github,vscode,mysql,styledcomponents,postman,alrclinux,vim,stackoverflow&perline=13)](#)
 
 
 <a href="https://info.flagcounter.com/rTck"><img src="https://s01.flagcounter.com/count2/rTck/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
