@@ -6,8 +6,8 @@
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=initials101)
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=initials101&theme=tokyonight)
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=initials101&theme=tokyonight)](https://git.io/streak-stats)
-</div> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=initials101&theme=tokyonight)](https://git.io/streak-stats)
+</div>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=13) -->
 ## 🏅 Certifications
 <p align="center">
