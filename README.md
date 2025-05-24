@@ -2,6 +2,9 @@
 <div align="center">	
 
 <div align="center">
+
+![MASTER-HEAD](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
  
 <!--  ![GitHub Stats](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=initials101)-->
  
@@ -35,5 +38,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,python,django,next,expressjs,nodejs,mongodb,md,git,github,vscode,mysql,styledcomponents,postman,linux,vim,stackoverflow&perline=13)](#)
 
 
-![MASTER-HEAD](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <!-- <a href="https://info.flagcounter.com/mMQM"><img src="https://s05.flagcounter.com/map/mMQM/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a> -->
