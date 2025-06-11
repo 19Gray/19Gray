@@ -1,25 +1,25 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding Animation" width="600"/>
   
-  # 🚀 Hey there! I'm a Fullstack MERN Developer
+  # 𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲! 𝗜'𝗺 𝗮 𝗙𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗠𝗘𝗥𝗡 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ⚡
   
-  ### 💻 Crafting Digital Experiences from Database to UI
+  ### 🌟 𝘾𝙧𝙖𝙛𝙩𝙞𝙣𝙜 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 𝙛𝙧𝙤𝙢 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 𝙩𝙤 𝙐𝙄 🌟
   
-  *Building scalable web applications with the power of MongoDB, Express.js, React, and Node.js*
+  *𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘸𝘦𝘣 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦 𝘱𝘰𝘸𝘦𝘳 𝘰𝘧 𝘔𝘰𝘯𝘨𝘰𝘋𝘉, 𝘌𝘹𝘱𝘳𝘦𝘴𝘴.𝘫𝘴, 𝘙𝘦𝘢𝘤𝘵, 𝘢𝘯𝘥 𝘕𝘰𝘥𝘦.𝘫𝘴*
   
   <img src="https://komarev.com/ghpvc/?username=initials101&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
   ---
   
-  ## 🎯 Current Focus
+  ## ⚡ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀
   
-  - 🔭 Building full-stack applications with **MERN Stack**
-  - 🌱 Exploring **Next.js 14** and **TypeScript**
-  - 👯 Looking to collaborate on **Open Source Projects**
-  - 💬 Ask me about **React, Node.js, MongoDB, or anything MERN!**
+  - 🎯 Building full-stack applications with **𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸**
+  - 🚀 Exploring **𝗡𝗲𝘅𝘁.𝗷𝘀 𝟭𝟰** and **𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁**
+  - 🤝 Looking to collaborate on **𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀**
+  - 💬 Ask me about **𝗥𝗲𝗮𝗰𝘁, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗼𝗿 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗠𝗘𝗥𝗡!**
   - ⚡ Fun fact: I debug with console.log() and I'm not ashamed! 😄
   
-  ## 📊 GitHub Analytics
+  ## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
   
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=initials101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -28,104 +28,27 @@
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=initials101&theme=tokyonight&hide_border=true)
   
-  ## 🛠️ Tech Arsenal
+  ## 🛠️ 𝗧𝗲𝗰𝗵 𝗔𝗿𝘀𝗲𝗻𝗮𝗹
   
-  ### Frontend Magic ✨
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ### ✨ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗠𝗮𝗴𝗶𝗰 ✨
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,styledcomponents&theme=dark" />
+  </p>
   
-  ### Backend Power 💪
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ### 💪 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗣𝗼𝘄𝗲𝗿 💪
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" />
+  </p>
   
-  ### Database & Cloud ☁️
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ### ☁️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 & 𝗖𝗹𝗼𝘂𝗱 ☁️
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws&theme=dark" />
+  </p>
   
-  ### Tools & Environment 🔧
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+  ### 🔧 𝗧𝗼𝗼𝗹𝘀 & 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 🔧
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,vim,docker,figma&theme=dark" />
+  </p>
   
-  ## 🏆 Achievements & Certifications
+  ## 🏆 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀 & 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
   
-  - 🎓 **ALX Software Engineering Program** Graduate
-  - 💻 **Full Stack MERN Development** Specialist
-  - 🚀 **Problem Solving** Enthusiast
-  
-  ## 📈 Contribution Graph
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=initials101&theme=tokyo-night&hide_border=true)
-  
-  ## 🎨 Featured Projects
-  
-  ```javascript
-  const myProjects = {
-    frontend: ["React SPA", "Next.js Applications", "Responsive Web Design"],
-    backend: ["RESTful APIs", "Authentication Systems", "Database Design"],
-    fullstack: ["E-commerce Platforms", "Social Media Apps", "Real-time Chat"],
-    currentlyBuilding: "Something Amazing... 🚀"
-  };
-  ```
-  
-  ## 💡 What I Bring to the Table
-  
-  - 🎨 **UI/UX Focus**: Creating intuitive and beautiful user interfaces
-  - ⚡ **Performance Optimization**: Writing efficient, scalable code
-  - 🔒 **Security First**: Implementing secure authentication and data protection
-  - 📱 **Responsive Design**: Mobile-first approach to web development
-  - 🚀 **Modern Practices**: Following industry best practices and clean code principles
-  
-  ## 🤝 Let's Connect & Collaborate!
-  
-  <div align="center">
-    
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/initials101)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/initials101)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ni_murry)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/initials101)
-  
-  </div>
-  
-  ---
-  
-  <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-  </div>
-  
-  <div align="center">
-    
-  **💼 Open for opportunities | 🤝 Available for collaborations | 📧 Let's build something amazing together!**
-    
-  *⭐ From [initials101](https://github.com/initials101) - Star some repos if you find them interesting!*
-    
-  </div>
-</div>
-```
-
-This enhanced README includes:
-
-1. **More engaging introduction** with focus on MERN stack
-2. **Current focus section** showing what you're working on
-3. **Organized tech stack** by categories (Frontend/Backend/Database/Tools)
-4. **Enhanced GitHub stats** with multiple visualizations
-5. **Featured projects section** with code snippet styling
-6. **Value proposition** highlighting your strengths
-7. **Professional badges** with consistent styling
-8. **Call-to-action** for collaboration
-9. **Random dev quote** for personality
-10. **Better visual hierarchy** with emojis and formatting
-
-The README now better represents a fullstack MERN developer while maintaining a professional yet creative appearance!
-
