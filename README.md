@@ -59,23 +59,7 @@
   
   - 🎓 **ALX Software Engineering Program** - Comprehensive software engineering curriculum covering algorithms, data structures, and full-stack development
   - 🎓 **Full Stack MERN Development** - Advanced web application development with MongoDB, Express, React, and Node.js
-  
-  ## 📈 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼
-  
-  ### 𝗘-𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺
-  Full-featured e-commerce solution with product catalog, shopping cart, secure payment processing, and order management.
-  
-  **Technologies:** React, Node.js, Express, MongoDB, Stripe API
-  
-  ### 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗦𝘆𝘀𝘁𝗲𝗺
-  Custom CMS with role-based access control, content creation workflow, and dynamic template rendering.
-  
-  **Technologies:** Next.js, MongoDB, AWS S3, Authentication
-  
-  ### 𝗥𝗲𝗮𝗹-𝘁𝗶𝗺𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
-  Analytics dashboard with real-time data visualization, filtering capabilities, and exportable reports.
-  
-  **Technologies:** React, D3.js, Socket.io, Express, MongoDB
+
   
   ## 💡 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝗶𝗲𝘀
   
