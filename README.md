@@ -2,7 +2,6 @@
   <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MASTER-HEAD" style="max-width: 100%; height: auto;"/>
     <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=initials101" alt="GitHub Stats"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=initials101&theme=shadow-green" alt="Most Commit Language"/>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=initials101&theme=shadow-green&border_radius=13.9&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
     </a>
