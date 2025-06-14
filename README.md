@@ -20,22 +20,25 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Metasploit-0f0f0f%202596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Cobalt_Strike-8B0000%20FF0000?style=for-the-badge&logo=windows&logoColor=white" alt="Cobalt Strike" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633%20FF9900?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-003366%204682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/BloodHound-660000%208B0000?style=for-the-badge&logo=graphql&logoColor=white" alt="BloodHound" />
-  <img src="https://img.shields.io/badge/Wireshark-00417D%201679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-5C1E1E%208B0000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="John the Ripper" />
-  <img src="https://img.shields.io/badge/Hashcat-FF6347%20FF4500?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashcat" />
-  <img src="https://img.shields.io/badge/SQLMap-000000%20333333?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLMap" />
-  <img src="https://img.shields.io/badge/Netcat-2E8B57%204EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Netcat" />
-  <img src="https://img.shields.io/badge/PowerSploit-4169E1%205391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerSploit" />
-  <img src="https://img.shields.io/badge/Empire-800000%20DC143C?style=for-the-badge&logo=linux&logoColor=white" alt="Empire" />
-  <img src="https://img.shields.io/badge/Bettercap-00CED1%2000D4AA?style=for-the-badge&logo=wireshark&logoColor=white" alt="Bettercap" />
-  <img src="https://img.shields.io/badge/SET-E65C1B%20FF6B35?style=for-the-badge&logo=shell&logoColor=white" alt="SET" />
-  <img src="https://img.shields.io/badge/Maltego-1F4E79%202C2F88?style=for-the-badge&logo=maltego&logoColor=white" alt="Maltego" />
+
+  <img src="https://www.metasploit.com/images/metasploit-logo.svg" alt="Metasploit" width="60" />
+  <img src="https://www.cobaltstrike.com/themes/cobaltstrike/images/cobaltstrike-logo.png" alt="Cobalt Strike" width="60" />
+  <img src="https://portswigger.net/cms/images/08/43/384x384_Logo.png" alt="Burp Suite" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap_logo.svg" alt="Nmap" width="60" />
+  <img src="https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/assets/BloodHound.png" alt="BloodHound" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="60" />
+  <img src="https://www.openwall.com/john/john-logo.png" alt="John the Ripper" width="60" />
+  <img src="https://hashcat.net/wiki/lib/exe/fetch.php?w=300&tok=85a008&media=hashcat.png" alt="Hashcat" width="60" />
+  <img src="https://sqlmap.org/images/sqlmap-logo.png" alt="SQLMap" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Netcat (Bash)" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerSploit" width="60" />
+  <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" alt="Empire (Console Icon)" width="60" />
+  <img src="https://bettercap.org/static/img/bettercap-logo.png" alt="Bettercap" width="60" />
+  <img src="https://cdn-icons-png.flaticon.com/512/727/727399.png" alt="SET" width="60" />
+  <img src="https://www.paterva.com/images/logo_small.png" alt="Maltego" width="60" />
+
 </div>
+
 
 
 
