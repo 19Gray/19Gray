@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-\`\`\`javascript
+```javascript
 const dennis = {
     name: "Dennis Muriithi",
     username: "initials101",
@@ -32,7 +32,7 @@ const dennis = {
     currentFocus: "Cybersecurity & Full Stack Development",
     funFact: "I secure systems by day and break them ethically by night! 🔐"
 };
-\`\`\`
+```
 
 ---
 
@@ -155,18 +155,3 @@ const dennis = {
 </div>
 
 ---
-
-<div align="center">
-  
-  ### 💡 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  ---
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
-  **Thanks for visiting my profile, Dennis Muriithi here! Let's connect and build something secure together! 🚀🔐**
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-  
-</div>
