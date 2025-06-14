@@ -21,17 +21,17 @@
 
 <div align="center">
 
-  <!-- Metasploit -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Metasploit_logo.svg" alt="Metasploit" width="60" height="60" />
+  <!-- Metasploit (SVG from Wikimedia Commons) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_of_Metasploit.svg" alt="Metasploit" width="60" />
 
-  <!-- Burp Suite -->
-  <img src="https://portswigger.net/cms/images/08/43/384x384_Logo.png" alt="Burp Suite" width="60" height="60" />
+  <!-- Burp Suite (PNG from Simple Icons via Streamline CDN) -->
+  <img src="https://assets.streamlinehq.com/image/private/w_60,h_60/f_auto/v1/icons/logos/burpsuite-w3f4g0vh9opupo2g5ek92.png" alt="Burp Suite" width="60" />
 
-  <!-- Wireshark -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="60" height="60" />
+  <!-- Wireshark (SVG icon from Wikimedia Commons) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="60" />
 
-  <!-- Maltego -->
-  <img src="https://www.paterva.com/images/logo_small.png" alt="Maltego" width="60" height="60" />
+  <!-- Maltego (SVG from Wikimedia Commons) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Maltego_Logo.svg" alt="Maltego" width="60" />
 
 </div>
 
