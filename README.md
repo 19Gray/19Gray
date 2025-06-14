@@ -21,19 +21,17 @@
 
 <div align="center">
 
-  <!-- Metasploit (SVG from Wikimedia Commons) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_of_Metasploit.svg" alt="Metasploit" width="60" />
+  <!-- skillicons.dev section -->
+  <img src="https://skillicons.dev/icons?i=bash,powershell,linux" />
 
-  <!-- Burp Suite (PNG from Simple Icons via Streamline CDN) -->
-  <img src="https://assets.streamlinehq.com/image/private/w_60,h_60/f_auto/v1/icons/logos/burpsuite-w3f4g0vh9opupo2g5ek92.png" alt="Burp Suite" width="60" />
-
-  <!-- Wireshark (SVG icon from Wikimedia Commons) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="60" />
-
-  <!-- Maltego (SVG from Wikimedia Commons) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Maltego_Logo.svg" alt="Maltego" width="60" />
+  <!-- Custom hacking tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_of_Metasploit.svg" alt="Metasploit" width="50" />
+  <img src="https://assets.streamlinehq.com/image/private/w_60,h_60/f_auto/v1/icons/logos/burpsuite-w3f4g0vh9opupo2g5ek92.png" alt="Burp Suite" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Maltego_Logo.svg" alt="Maltego" width="50" />
 
 </div>
+
 
 
 <div align="center">
