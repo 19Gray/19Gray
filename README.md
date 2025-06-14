@@ -72,20 +72,8 @@ const dennis = {
 ## 🛠️ Development Tools & Technologies
 
 <div align="center">
-
-### 🚀 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-
-### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-### 🛠️ Tools & Utilities
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,wordpress" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="48" height="48" alt="VirtualBox" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,docker,wordpress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="48" height="48" alt="VirtualBox" />
 </div>
 
 ---
@@ -164,23 +152,6 @@ const dennis = {
   <a href="https://www.leetcode.com/initials101" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48" height="48" alt="LeetCode" />
   </a>
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  
-  ```diff
-  + 🔭 Currently working on: Advanced Cybersecurity Projects & MERN Stack Applications
-  + 🌱 Learning: Advanced Penetration Testing & Cloud Security
-  + 👯 Looking to collaborate on: Open Source Security Tools & Web Applications
-  + 💬 Ask me about: Cybersecurity, Ethical Hacking, Web Development, Linux
-  + 📫 How to reach me: dennismuriithi@gmail.com
-  + ⚡ Fun fact: I believe the best defense is understanding the offense! 🛡️
-  \`\`\`
-  
 </div>
 
 ---
