@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Dennis+Muriithi;Cybersecurity+Enthusiast;Full+Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Dennis+Muriithi;Cybersecurity+Enthusiast;Red+Team+Specialist;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,19 +20,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```javascript
+\`\`\`javascript
 const dennis = {
     name: "Dennis Muriithi",
     username: "initials101",
     pronouns: "He" | "Him",
     code: ["JavaScript", "Python", "C++", "C", "HTML", "Bash"],
-    askMeAbout: ["web dev", "cybersecurity", "penetration testing", "tech"],
+    askMeAbout: ["red teaming", "penetration testing", "cybersecurity", "web dev"],
     operatingSystems: ["Kali Linux", "Ubuntu", "Debian", "Arch Linux", "Android"],
-    securityTools: ["Burp Suite", "Nmap", "Metasploit", "Wireshark", "John the Ripper"],
-    currentFocus: "Cybersecurity & Full Stack Development",
-    funFact: "I secure systems by day and break them ethically by night! 🔐"
+    redTeamTools: ["Metasploit", "Cobalt Strike", "Burp Suite", "Nmap", "Bloodhound"],
+    currentFocus: "Red Team Operations & Advanced Penetration Testing",
+    funFact: "I think like an attacker to defend better! 🔴⚔️"
 };
-```
+\`\`\`
 
 ---
 
@@ -53,18 +53,24 @@ const dennis = {
 
 ---
 
-## 🔒 Cybersecurity Tools
+## 🔴 Red Team & Penetration Testing Tools
 
 <div align="center">
+  <img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" width="48" height="48" alt="Metasploit" />
+  <img src="https://www.cobaltstrike.com/wp-content/uploads/2019/09/cobalt-strike-logo.png" width="48" height="48" alt="Cobalt Strike" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" width="48" height="48" alt="Burp Suite" />
   <img src="https://nmap.org/images/nmap-logo-256x256.png" width="48" height="48" alt="Nmap" />
-  <img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" width="48" height="48" alt="Metasploit" />
+  <img src="https://github.com/BloodHoundAD/BloodHound/raw/master/src/img/bloodhound-logo.png" width="48" height="48" alt="BloodHound" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="48" height="48" alt="Wireshark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Netcat" />
   <img src="https://www.openwall.com/john/g/john-the-ripper.png" width="48" height="48" alt="John the Ripper" />
+  <img src="https://hashcat.net/misc/img/hashcat-logo.png" width="48" height="48" alt="Hashcat" />
+  <img src="https://github.com/sqlmapproject/sqlmap/raw/master/doc/logo.png" width="48" height="48" alt="SQLMap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Netcat" />
+  <img src="https://github.com/PowerShellMafia/PowerSploit/raw/master/PowerSploit.png" width="48" height="48" alt="PowerSploit" />
+  <img src="https://github.com/EmpireProject/Empire/raw/master/data/empire-red.png" width="48" height="48" alt="Empire" />
+  <img src="https://github.com/bettercap/bettercap/raw/master/assets/logo.png" width="48" height="48" alt="Bettercap" />
+  <img src="https://github.com/trustedsec/social-engineer-toolkit/raw/master/readme/set.png" width="48" height="48" alt="SET" />
   <img src="https://www.maltego.com/images/uploads/maltego-logo.svg" width="48" height="48" alt="Maltego" />
-  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Gophish" />
-  <img src="https://beefproject.com/images/beef-logo.png" width="48" height="48" alt="BeEF" />
 </div>
 
 ---
@@ -109,11 +115,11 @@ const dennis = {
 
 ### 🎯 Core Competencies
 
-| 🔐 **Cybersecurity** | 💻 **Development** | 🐧 **System Administration** |
+| 🔴 **Red Team Operations** | 🔍 **Penetration Testing** | 🛡️ **Security Assessment** |
 |:---:|:---:|:---:|
-| Penetration Testing | Full Stack Development | Linux System Management |
-| Vulnerability Assessment | Web Application Security | Network Configuration |
-| Security Auditing | Secure Code Practices | System Hardening |
+| Advanced Persistent Threats | Web Application Testing | Vulnerability Assessment |
+| Social Engineering | Network Penetration | Security Auditing |
+| Post-Exploitation | Active Directory Attacks | Threat Modeling |
 
 </div>
 
@@ -125,7 +131,7 @@ const dennis = {
 
 ![ALX](https://img.shields.io/badge/ALX-Software_Engineering-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![MERN](https://img.shields.io/badge/Full_Stack-MERN_Development-4ECDC4?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Security](https://img.shields.io/badge/Cybersecurity-Specialist-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![Red Team](https://img.shields.io/badge/Red_Team-Specialist-DC143C?style=for-the-badge&logo=security&logoColor=white)
 
 </div>
 
@@ -155,3 +161,4 @@ const dennis = {
 </div>
 
 ---
+
