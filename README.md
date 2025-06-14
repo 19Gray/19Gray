@@ -1,172 +1,223 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding Animation" width="600"/>
-  
-  # 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗙𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗠𝗘𝗥𝗡 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
-  
-  ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙯𝙞𝙣𝙜 𝙞𝙣 𝙎𝙘𝙖𝙡𝙖𝙗𝙡𝙚 𝙒𝙚𝙗 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨 & 𝙀𝙣𝙩𝙚𝙧𝙥𝙧𝙞𝙨𝙚 𝙎𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨
-  
-  *𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘥 𝘪𝘯 𝘥𝘦𝘭𝘪𝘷𝘦𝘳𝘪𝘯𝘨 𝘩𝘪𝘨𝘩-𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘔𝘰𝘯𝘨𝘰𝘋𝘉, 𝘌𝘹𝘱𝘳𝘦𝘴𝘴.𝘫𝘴, 𝘙𝘦𝘢𝘤𝘵, 𝘢𝘯𝘥 𝘕𝘰𝘥𝘦.𝘫𝘴*
-  
-  
-  ---
-  
-  ## 📋 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
-  
-  Results-driven Full Stack Developer with expertise in MERN stack technologies. Committed to delivering robust, scalable web applications with clean, maintainable code. Strong problem-solving abilities and experience in optimizing application performance and user experience.
-  
-  ## 💼 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 & 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻𝘀
-  
-  - 🔹 Full Stack Web Application Development
-  - 🔹 RESTful API Design & Implementation
-  - 🔹 Database Architecture & Optimization
-  - 🔹 Authentication & Authorization Systems
-  - 🔹 Responsive UI/UX Implementation
-  - 🔹 Performance Optimization & Testing
-
-<h3 align="center">
- <img src="https://github.com/initials101/initials101/blob/Master/GIF/code.gif" height="20"/> 
-Connect with me:
- <img src="https://github.com/initials101/initials101/blob/Master/GIF/code.gif" height="20"/>
-</h3>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Nikhil+Patidar;Professional+Full+Stack+MERN+Developer;Specializing+in+Scalable+Web+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <!-- LinkedIn -->
-      <td>
-        <a href="https://www.linkedin.com/in/initials101/" target="_blank">
-          <img src="https://github.com/initials101/initials101/blob/Master/GIF/Linkdin.gif?raw=true" height="50" width="50" alt="LinkedIn">
-        </a>
-      </td>
-      <!-- Gmail -->
-      <td>
-        <a href="mailto:nikhilpatidar132@gmail.com" target="_blank">
-          <img src="https://github.com/initials101/initials101/blob/Master/GIF/Gmail.gif?raw=true" alt="Gmail" height="50" width="50">
-        </a>
-      </td>
-      <!-- Instagram -->
-      <td>
-        <a href="https://www.instagram.com/initials101/" target="_blank">
-          <img src="https://github.com/initials101/initials101/blob/Master/GIF/Instagram.gif?raw=true" alt="Instagram" height="50" width="50">
-        </a>
-      </td>
-      <!-- Twitter/X -->
-      <td>
-        <a href="https://x.com/initials101" target="_blank">
-          <img src="https://github.com/initials101/initials101/blob/Master/GIF/Twitter.gif?raw=true" alt="Twitter/X" height="50" width="50">
-        </a>
-      </td>
-      <!-- YouTube -->
-      <td>
-        <a href="https://www.youtube.com/@initials101" target="_blank">
-          <img src="https://github.com/initials101/initials101/blob/Master/GIF/youtube.gif?raw=true" alt="YouTube" height="50" width="50">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding Animation" width="600"/>
 </div>
 
+<div align="center">
   
-  ## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗠𝗲𝘁𝗿𝗶𝗰𝘀
+  ![Profile Views](https://komarev.com/ghpvc/?username=initials101&color=brightgreen&style=flat-square&label=Profile+Views)
+  [![GitHub followers](https://img.shields.io/github/followers/initials101?label=Followers&style=social)](https://github.com/initials101)
+  [![GitHub stars](https://img.shields.io/github/stars/initials101?label=Stars&style=social)](https://github.com/initials101)
   
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=initials101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=initials101&layout=compact&theme=tokyonight&hide_border=true"/>
-  </div>
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=initials101&theme=tokyonight&hide_border=true)
-  
-  ## 🛠️ 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
-  
-  ### 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,styledcomponents&theme=dark" />
-  </p>
-  
-  ### 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" />
-  </p>
-  
-  ### 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 & 𝗖𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws&theme=dark" />
-  </p>
-  
-  ### 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,vim,docker,figma&theme=dark" />
-  </p>
-  
-  ## 🏆 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
-  
-  - 🎓 **ALX Software Engineering Program** - Comprehensive software engineering curriculum covering algorithms, data structures, and full-stack development
-  - 🎓 **Full Stack MERN Development** - Advanced web application development with MongoDB, Express, React, and Node.js
+</div>
 
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+\`\`\`javascript
+const nikhil = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "Python", "C++", "C"],
+    askMeAbout: ["web dev", "tech", "app dev", "cybersecurity"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "Styled Components"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            python: ["Django", "Flask"]
+        },
+        databases: ["MongoDB", "MySQL", "Firebase"],
+        cloudServices: ["AWS", "Firebase", "Vercel"],
+        tools: ["Docker", "Git", "Postman", "VS Code"]
+    },
+    currentFocus: "Building scalable web applications with MERN stack",
+    funFact: "I debug with console.log() and I'm proud of it!"
+};
+\`\`\`
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### ☁️ Cloud & Hosting
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔒 Cybersecurity Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=initials101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=initials101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=initials101&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=initials101&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=initials101&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+### 🎯 Core Competencies
+
+| 🏗️ **Architecture** | 🔧 **Development** | 🚀 **Performance** |
+|:---:|:---:|:---:|
+| Scalable System Design | Clean, Maintainable Code | Optimization & Testing |
+| Database Architecture | RESTful API Development | Fast-Loading Applications |
+| Security Implementation | Responsive UI/UX | Cross-Platform Compatibility |
+
+</div>
+
+---
+
+## 🎓 Certifications & Education
+
+<div align="center">
+
+![ALX](https://img.shields.io/badge/ALX-Software_Engineering-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![MERN](https://img.shields.io/badge/Full_Stack-MERN_Development-4ECDC4?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
   
-  ## 💡 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝗶𝗲𝘀
-  
-  <table align="center">
-    <tr>
-      <td align="center"><b>Architecture Design</b><br>Scalable system architecture</td>
-      <td align="center"><b>Code Quality</b><br>Clean, maintainable code</td>
-      <td align="center"><b>Security Implementation</b><br>Best security practices</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Responsive Development</b><br>Cross-platform compatibility</td>
-      <td align="center"><b>Performance Optimization</b><br>Fast-loading applications</td>
-      <td align="center"><b>Team Collaboration</b><br>Effective communication</td>
-    </tr>
-  </table>
-  
-  ## 🌐 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸
-  
-  <div align="center">
-    
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/initials101)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/initials101)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/initials101/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilpatidar132@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/initials101/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/initials101)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@initials101)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/initials101)
   
-  </div>
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+  
+  ```diff
+  + 🔭 Currently working on: Advanced MERN Stack Projects
+  + 🌱 Learning: Cloud Architecture & DevOps
+  + 👯 Looking to collaborate on: Open Source Projects
+  + 💬 Ask me about: Web Development, MERN Stack, Cybersecurity
+  + 📫 How to reach me: nikhilpatidar132@gmail.com
+  + ⚡ Fun fact: I think debugging is like being a detective in a crime movie
+  \`\`\`
+  
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/initials101/initials101/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   ---
   
-  <div align="center">
-    
-  ```
-  ╔═══════════════════════════════════════════════════════════╗
-  ║                                                           ║
-  ║   Available for full-time positions and contract work     ║
-  ║   Open to relocation and remote opportunities             ║
-  ║                                                           ║
-  ╚═══════════════════════════════════════════════════════════╝
-  ```
-    
-  *Thank you for reviewing my profile. I look forward to discussing how my skills and experience can contribute to your team's success.*
-    
-  </div>
-
-
-  ### Languages Knowledge:
-| HTML | C | C++ | Python | JAVASCRIPT | BASH |
-|------|----|-----|--------|-----|------|
-| <img src="https://github.com/initials101/initials101/blob/Master/Images/HTML.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/JAVASCRIPT.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> |
-
-### Operating System (OS) Knowledge:
-| Android | Ubuntu | Debian | BlackArch Linux | Linux | Arch Linux |
-|---------|--------|--------|--------|-------|------------|
-| <img src="https://github.com/initials101/initials101/blob/Master/Images/Android.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/Ubuntu.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/Debian.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/Centos.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/LINUX.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/KALI%20LINUX%201.png" style="width: 70px; height: 70px; object-fit: contain;"/> |
-
-### Other Knowledge:
-| Bash | VSCode | MySQL | WordPress | VirtualBox | Docker |
-|------|--------|-------|-----------|------------|--------|
-| <img src="https://github.com/initials101/initials101/blob/Master/Images/BASH.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/VS_Code.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/WordPress.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/VirtualBox.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> |
-
-### Tools Knowledge:  
-| Burp Suite | Nmap | Metasploit | Wireshark | Netcat | John the Ripper | Maltego | Gophish | Beef |
-|------------|------|------------|-----------|--------|----------------|  
-| <img src="https://github.com/initials101/initials101/blob/Master/Images/Burp%20Suite.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/Nmap.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/Meta%20Sploit.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/Wireshark.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/Netcat.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/initials101/initials101/blob/Master/Images/John%20the%20Ripper.png" style="width: 70px; height: 70px; object-fit: contain;"/> |
-
+  ### 🎵 Spotify Playing
+  [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/initials101)
+  
+  ---
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+  **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+  
 </div>
-
