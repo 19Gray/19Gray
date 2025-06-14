@@ -46,8 +46,7 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,docker,wordpress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="48" height="48" alt="VirtualBox" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,docker" />
 </div>
 
 
