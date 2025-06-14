@@ -8,14 +8,6 @@
 </div>
 -->
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=initials101&color=brightgreen&style=flat-square&label=Profile+Views)
-  [![GitHub followers](https://img.shields.io/github/followers/initials101?label=Followers&style=social)](https://github.com/initials101)
-  [![GitHub stars](https://img.shields.io/github/stars/initials101?label=Stars&style=social)](https://github.com/initials101)
-  
-</div>
-
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,c,cpp,python,javascript,bash" />
@@ -28,22 +20,23 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Cobalt Strike" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=security&logoColor=white" alt="BloodHound" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=security&logoColor=white" alt="John the Ripper" />
-  <img src="https://img.shields.io/badge/Hashcat-FF4500?style=for-the-badge&logo=security&logoColor=white" alt="Hashcat" />
-  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=security&logoColor=white" alt="SQLMap" />
-  <img src="https://img.shields.io/badge/Netcat-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Netcat" />
-  <img src="https://img.shields.io/badge/PowerSploit-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerSploit" />
-  <img src="https://img.shields.io/badge/Empire-DC143C?style=for-the-badge&logo=security&logoColor=white" alt="Empire" />
-  <img src="https://img.shields.io/badge/Bettercap-00D4AA?style=for-the-badge&logo=security&logoColor=white" alt="Bettercap" />
-  <img src="https://img.shields.io/badge/SET-FF6B35?style=for-the-badge&logo=security&logoColor=white" alt="SET" />
-  <img src="https://img.shields.io/badge/Maltego-1F4E79?style=for-the-badge&logo=maltego&logoColor=white" alt="Maltego" />
+  <img src="https://img.shields.io/badge/Metasploit-0f0f0f%202596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Cobalt_Strike-8B0000%20FF0000?style=for-the-badge&logo=windows&logoColor=white" alt="Cobalt Strike" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633%20FF9900?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-003366%204682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/BloodHound-660000%208B0000?style=for-the-badge&logo=graphql&logoColor=white" alt="BloodHound" />
+  <img src="https://img.shields.io/badge/Wireshark-00417D%201679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-5C1E1E%208B0000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="John the Ripper" />
+  <img src="https://img.shields.io/badge/Hashcat-FF6347%20FF4500?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashcat" />
+  <img src="https://img.shields.io/badge/SQLMap-000000%20333333?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLMap" />
+  <img src="https://img.shields.io/badge/Netcat-2E8B57%204EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Netcat" />
+  <img src="https://img.shields.io/badge/PowerSploit-4169E1%205391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerSploit" />
+  <img src="https://img.shields.io/badge/Empire-800000%20DC143C?style=for-the-badge&logo=linux&logoColor=white" alt="Empire" />
+  <img src="https://img.shields.io/badge/Bettercap-00CED1%2000D4AA?style=for-the-badge&logo=wireshark&logoColor=white" alt="Bettercap" />
+  <img src="https://img.shields.io/badge/SET-E65C1B%20FF6B35?style=for-the-badge&logo=shell&logoColor=white" alt="SET" />
+  <img src="https://img.shields.io/badge/Maltego-1F4E79%202C2F88?style=for-the-badge&logo=maltego&logoColor=white" alt="Maltego" />
 </div>
+
 
 
 
