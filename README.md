@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-\`\`\`javascript
+```javascript
 const dennis = {
     name: "Dennis Muriithi",
     username: "initials101",
@@ -32,7 +32,7 @@ const dennis = {
     currentFocus: "Cybersecurity & Full Stack Development",
     funFact: "I secure systems by day and break them ethically by night! 🔐"
 };
-\`\`\`
+```
 
 ---
 
@@ -368,7 +368,7 @@ const dennis = {
   + 💬 Ask me about: Cybersecurity, Ethical Hacking, Web Development, Linux
   + 📫 How to reach me: dennismuriithi@gmail.com
   + ⚡ Fun fact: I believe the best defense is understanding the offense! 🛡️
-  \`\`\`
+  ```
   
 </div>
 
