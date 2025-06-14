@@ -20,13 +20,21 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Netcat" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerSploit" width="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/543/543312.png" alt="SQLMap" width="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" alt="Empire" width="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2206/2206368.png" alt="SET" width="40"/>
-  <img src="https://www.paterva.com/images/logo_small.png" alt="Maltego" width="40"/>
+
+  <!-- Metasploit -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Metasploit_logo.svg" alt="Metasploit" width="60" height="60" />
+
+  <!-- Burp Suite -->
+  <img src="https://portswigger.net/cms/images/08/43/384x384_Logo.png" alt="Burp Suite" width="60" height="60" />
+
+  <!-- Wireshark -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="60" height="60" />
+
+  <!-- Maltego -->
+  <img src="https://www.paterva.com/images/logo_small.png" alt="Maltego" width="60" height="60" />
+
 </div>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,docker" />
