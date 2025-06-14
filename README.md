@@ -20,28 +20,13 @@
 </div>
 
 <div align="center">
-
-  <img src="https://www.metasploit.com/images/metasploit-logo.svg" alt="Metasploit" width="60" />
-  <img src="https://www.cobaltstrike.com/themes/cobaltstrike/images/cobaltstrike-logo.png" alt="Cobalt Strike" width="60" />
-  <img src="https://portswigger.net/cms/images/08/43/384x384_Logo.png" alt="Burp Suite" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap_logo.svg" alt="Nmap" width="60" />
-  <img src="https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/assets/BloodHound.png" alt="BloodHound" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="60" />
-  <img src="https://www.openwall.com/john/john-logo.png" alt="John the Ripper" width="60" />
-  <img src="https://hashcat.net/wiki/lib/exe/fetch.php?w=300&tok=85a008&media=hashcat.png" alt="Hashcat" width="60" />
-  <img src="https://sqlmap.org/images/sqlmap-logo.png" alt="SQLMap" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Netcat (Bash)" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerSploit" width="60" />
-  <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" alt="Empire (Console Icon)" width="60" />
-  <img src="https://bettercap.org/static/img/bettercap-logo.png" alt="Bettercap" width="60" />
-  <img src="https://cdn-icons-png.flaticon.com/512/727/727399.png" alt="SET" width="60" />
-  <img src="https://www.paterva.com/images/logo_small.png" alt="Maltego" width="60" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Netcat" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerSploit" width="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/543/543312.png" alt="SQLMap" width="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" alt="Empire" width="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2206/2206368.png" alt="SET" width="40"/>
+  <img src="https://www.paterva.com/images/logo_small.png" alt="Maltego" width="40"/>
 </div>
-
-
-
-
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,docker" />
