@@ -61,15 +61,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=initials101&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
 
-
-## 💼 Professional Focus Areas
-
-<div align="center">
-
-### 🎯 Core Competencies
 
 | 🔴 **Red Team Operations** | 🔍 **Penetration Testing** | 🛡️ **Security Assessment** |
 |:---:|:---:|:---:|
@@ -81,7 +73,6 @@
 
 ---
 
-## 🎓 Certifications & Education
 
 <div align="center">
 
@@ -93,7 +84,6 @@
 
 ---
 
-## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/initials101/" target="_blank">
