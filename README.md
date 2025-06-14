@@ -55,22 +55,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=initials101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=initials101&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-
-
-| 🔴 **Red Team Operations** | 🔍 **Penetration Testing** | 🛡️ **Security Assessment** |
-|:---:|:---:|:---:|
-| Advanced Persistent Threats | Web Application Testing | Vulnerability Assessment |
-| Social Engineering | Network Penetration | Security Auditing |
-| Post-Exploitation | Active Directory Attacks | Threat Modeling |
-
-</div>
-
----
 
 
 <div align="center">
