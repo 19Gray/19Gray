@@ -21,16 +21,15 @@
 
 <div align="center">
 
-  <!-- skillicons.dev section -->
-  <img src="https://skillicons.dev/icons?i=bash,powershell,linux" />
+  <!-- Custom-styled icons to match skillicons.dev look -->
 
-  <!-- Custom hacking tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_of_Metasploit.svg" alt="Metasploit" width="50" />
-  <img src="https://assets.streamlinehq.com/image/private/w_60,h_60/f_auto/v1/icons/logos/burpsuite-w3f4g0vh9opupo2g5ek92.png" alt="Burp Suite" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Maltego_Logo.svg" alt="Maltego" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_of_Metasploit.svg" alt="Metasploit" width="50" height="50"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_60,h_60/f_auto/v1/icons/logos/burpsuite-w3f4g0vh9opupo2g5ek92.png" alt="Burp Suite" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Maltego_Logo.svg" alt="Maltego" width="50" height="50"/>
 
 </div>
+
 
 
 
