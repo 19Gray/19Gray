@@ -56,21 +56,21 @@ const dennis = {
 ## 🔴 Red Team & Penetration Testing Tools
 
 <div align="center">
-  <img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" width="48" height="48" alt="Metasploit" />
-  <img src="https://www.cobaltstrike.com/wp-content/uploads/2019/09/cobalt-strike-logo.png" width="48" height="48" alt="Cobalt Strike" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" width="48" height="48" alt="Burp Suite" />
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="48" height="48" alt="Nmap" />
-  <img src="https://github.com/BloodHoundAD/BloodHound/raw/master/src/img/bloodhound-logo.png" width="48" height="48" alt="BloodHound" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="48" height="48" alt="Wireshark" />
-  <img src="https://www.openwall.com/john/g/john-the-ripper.png" width="48" height="48" alt="John the Ripper" />
-  <img src="https://hashcat.net/misc/img/hashcat-logo.png" width="48" height="48" alt="Hashcat" />
-  <img src="https://github.com/sqlmapproject/sqlmap/raw/master/doc/logo.png" width="48" height="48" alt="SQLMap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Netcat" />
-  <img src="https://github.com/PowerShellMafia/PowerSploit/raw/master/PowerSploit.png" width="48" height="48" alt="PowerSploit" />
-  <img src="https://github.com/EmpireProject/Empire/raw/master/data/empire-red.png" width="48" height="48" alt="Empire" />
-  <img src="https://github.com/bettercap/bettercap/raw/master/assets/logo.png" width="48" height="48" alt="Bettercap" />
-  <img src="https://github.com/trustedsec/social-engineer-toolkit/raw/master/readme/set.png" width="48" height="48" alt="SET" />
-  <img src="https://www.maltego.com/images/uploads/maltego-logo.svg" width="48" height="48" alt="Maltego" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Cobalt Strike" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=security&logoColor=white" alt="BloodHound" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=security&logoColor=white" alt="John the Ripper" />
+  <img src="https://img.shields.io/badge/Hashcat-FF4500?style=for-the-badge&logo=security&logoColor=white" alt="Hashcat" />
+  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=security&logoColor=white" alt="SQLMap" />
+  <img src="https://img.shields.io/badge/Netcat-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Netcat" />
+  <img src="https://img.shields.io/badge/PowerSploit-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerSploit" />
+  <img src="https://img.shields.io/badge/Empire-DC143C?style=for-the-badge&logo=security&logoColor=white" alt="Empire" />
+  <img src="https://img.shields.io/badge/Bettercap-00D4AA?style=for-the-badge&logo=security&logoColor=white" alt="Bettercap" />
+  <img src="https://img.shields.io/badge/SET-FF6B35?style=for-the-badge&logo=security&logoColor=white" alt="SET" />
+  <img src="https://img.shields.io/badge/Maltego-1F4E79?style=for-the-badge&logo=maltego&logoColor=white" alt="Maltego" />
 </div>
 
 ---
