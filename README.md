@@ -7,7 +7,6 @@
   
   *𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘥 𝘪𝘯 𝘥𝘦𝘭𝘪𝘷𝘦𝘳𝘪𝘯𝘨 𝘩𝘪𝘨𝘩-𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘔𝘰𝘯𝘨𝘰𝘋𝘉, 𝘌𝘹𝘱𝘳𝘦𝘴𝘴.𝘫𝘴, 𝘙𝘦𝘢𝘤𝘵, 𝘢𝘯𝘥 𝘕𝘰𝘥𝘦.𝘫𝘴*
   
-  <img src="https://komarev.com/ghpvc/?username=initials101&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
   ---
   
@@ -23,6 +22,51 @@
   - 🔹 Authentication & Authorization Systems
   - 🔹 Responsive UI/UX Implementation
   - 🔹 Performance Optimization & Testing
+
+<h3 align="center">
+ <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/code.gif" height="20"/> 
+Connect with me:
+ <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/code.gif" height="20"/>
+</h3>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- LinkedIn -->
+      <td>
+        <a href="https://www.linkedin.com/in/nikhilpatidar01/" target="_blank">
+          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/Linkdin.gif?raw=true" height="50" width="50" alt="LinkedIn">
+        </a>
+      </td>
+      <!-- Gmail -->
+      <td>
+        <a href="mailto:nikhilpatidar132@gmail.com" target="_blank">
+          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/Gmail.gif?raw=true" alt="Gmail" height="50" width="50">
+        </a>
+      </td>
+      <!-- Instagram -->
+      <td>
+        <a href="https://www.instagram.com/nikhilpatidar01/" target="_blank">
+          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/Instagram.gif?raw=true" alt="Instagram" height="50" width="50">
+        </a>
+      </td>
+      <!-- Twitter/X -->
+      <td>
+        <a href="https://x.com/nikhilpatidar01" target="_blank">
+          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/Twitter.gif?raw=true" alt="Twitter/X" height="50" width="50">
+        </a>
+      </td>
+      <!-- YouTube -->
+      <td>
+        <a href="https://www.youtube.com/@Nikhilpatidar01" target="_blank">
+          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/youtube.gif?raw=true" alt="YouTube" height="50" width="50">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
   
   ## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗠𝗲𝘁𝗿𝗶𝗰𝘀
   
@@ -102,5 +146,27 @@
   *Thank you for reviewing my profile. I look forward to discussing how my skills and experience can contribute to your team's success.*
     
   </div>
+
+
+  ### Languages Knowledge:
+| HTML | C | C++ | Python | PHP | Java |
+|------|----|-----|--------|-----|------|
+| <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/HTML.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/PHP.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> |
+
+### Operating System (OS) Knowledge:
+| Android | Ubuntu | Debian | CentOS | Linux | Kali Linux |
+|---------|--------|--------|--------|-------|------------|
+| <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Android.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Ubuntu.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Debian.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Centos.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/LINUX.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/KALI%20LINUX%201.png" style="width: 70px; height: 70px; object-fit: contain;"/> |
+
+### Other Knowledge:
+| Bash | VSCode | MySQL | WordPress | VirtualBox | Docker |
+|------|--------|-------|-----------|------------|--------|
+| <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/BASH.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/VS_Code.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/WordPress.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/VirtualBox.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" style="width: 70px; height: 70px; object-fit: contain;"/> |
+
+### Tools Knowledge:  
+| Burp Suite | Nmap | Metasploit | Wireshark | Netcat | John the Ripper |  
+|------------|------|------------|-----------|--------|----------------|  
+| <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Burp%20Suite.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Nmap.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Meta%20Sploit.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Wireshark.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Netcat.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/John%20the%20Ripper.png" style="width: 70px; height: 70px; object-fit: contain;"/> |
+
 </div>
 ```
