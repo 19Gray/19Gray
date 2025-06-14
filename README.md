@@ -39,14 +39,34 @@ const dennis = {
 ## 💻 Programming Languages
 
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+        <br><strong>HTML5</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+        <br><strong>C</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+        <br><strong>C++</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+        <br><strong>Python</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript" />
+        <br><strong>JavaScript</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
+        <br><strong>Bash</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -54,15 +74,40 @@ const dennis = {
 ## 🖥️ Operating Systems
 
 <div align="center">
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=android" width="65" height="65" alt="Android" />
+        <br><strong>Android</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="65" height="65" alt="Ubuntu" />
+        <br><strong>Ubuntu</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=debian" width="65" height="65" alt="Debian" />
+        <br><strong>Debian</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=arch" width="65" height="65" alt="BlackArch" />
+        <br><strong>BlackArch</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+        <br><strong>Linux</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=arch" width="65" height="65" alt="Arch Linux" />
+        <br><strong>Arch Linux</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" width="65" height="65" alt="Kali Linux" />
+        <br><strong>Kali Linux</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -70,17 +115,48 @@ const dennis = {
 ## 🔒 Cybersecurity Tools
 
 <div align="center">
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge&logo=security&logoColor=white)
-![Maltego](https://img.shields.io/badge/Maltego-1F4E79?style=for-the-badge&logo=maltego&logoColor=white)
-![Gophish](https://img.shields.io/badge/Gophish-FF4500?style=for-the-badge&logo=go&logoColor=white)
-![BeEF](https://img.shields.io/badge/BeEF-8B4513?style=for-the-badge&logo=security&logoColor=white)
-
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" width="65" height="65" alt="Burp Suite" />
+        <br><strong>Burp Suite</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://nmap.org/images/nmap-logo-256x256.png" width="65" height="65" alt="Nmap" />
+        <br><strong>Nmap</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" width="65" height="65" alt="Metasploit" />
+        <br><strong>Metasploit</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="65" height="65" alt="Wireshark" />
+        <br><strong>Wireshark</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" height="65" alt="Netcat" />
+        <br><strong>Netcat</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://www.openwall.com/john/g/john-the-ripper.png" width="65" height="65" alt="John the Ripper" />
+        <br><strong>John the Ripper</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.maltego.com/images/uploads/maltego-logo.svg" width="65" height="65" alt="Maltego" />
+        <br><strong>Maltego</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Gophish" />
+        <br><strong>Gophish</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://beefproject.com/images/beef-logo.png" width="65" height="65" alt="BeEF" />
+        <br><strong>BeEF</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -90,28 +166,92 @@ const dennis = {
 <div align="center">
 
 ### 🚀 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+      <br><strong>Next.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+      <br><strong>Tailwind CSS</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br><strong>Bootstrap</strong>
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
+      <br><strong>Express.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django" />
+      <br><strong>Django</strong>
+    </td>
+  </tr>
+</table>
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+      <br><strong>Firebase</strong>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tools & Utilities
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="65" height="65" alt="VirtualBox" />
+      <br><strong>VirtualBox</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="65" height="65" alt="WordPress" />
+      <br><strong>WordPress</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -173,14 +313,46 @@ const dennis = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/initials101/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennismuriithi@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/initials101/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/initials101)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@initials101)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/initials101)
-  
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <a href="https://www.linkedin.com/in/initials101/" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="65" alt="LinkedIn" />
+        </a>
+        <br><strong>LinkedIn</strong>
+      </td>
+      <td align="center" width="120">
+        <a href="mailto:dennismuriithi@gmail.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="65" alt="Gmail" />
+        </a>
+        <br><strong>Gmail</strong>
+      </td>
+      <td align="center" width="120">
+        <a href="https://www.instagram.com/initials101/" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="65" alt="Instagram" />
+        </a>
+        <br><strong>Instagram</strong>
+      </td>
+      <td align="center" width="120">
+        <a href="https://x.com/initials101" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="65" alt="Twitter" />
+        </a>
+        <br><strong>Twitter</strong>
+      </td>
+      <td align="center" width="120">
+        <a href="https://www.youtube.com/@initials101" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="65" alt="YouTube" />
+        </a>
+        <br><strong>YouTube</strong>
+      </td>
+      <td align="center" width="120">
+        <a href="https://www.leetcode.com/initials101" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="65" height="65" alt="LeetCode" />
+        </a>
+        <br><strong>LeetCode</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -198,14 +370,6 @@ const dennis = {
   + ⚡ Fun fact: I believe the best defense is understanding the offense! 🛡️
   \`\`\`
   
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/initials101/initials101/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
