@@ -1,12 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Dennis+Muriithi;Cybersecurity+Enthusiast;Red+Team+Specialist;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
 
 
+<!--
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding Animation" width="600"/>
 </div>
-
+-->
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,c,cpp,python,javascript,bash" />
