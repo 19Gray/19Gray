@@ -2,11 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Dennis+Muriithi;Cybersecurity+Enthusiast;Red+Team+Specialist;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<!--
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding Animation" width="600"/>
 </div>
--->
 
 
 <div align="center">
@@ -14,30 +13,7 @@
 </div>
 
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=android,ubuntu,debian,arch,linux" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" width="48" height="48" alt="Kali Linux" />
-</div>
-<div align="center">
 
-  <!-- skillicons.dev section -->
-  <img src="https://skillicons.dev/icons?i=bash,powershell,linux" />
-
-  <!-- Custom hacking tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_of_Metasploit.svg" alt="Metasploit" width="50" />
-  <img src="https://assets.streamlinehq.com/image/private/w_60,h_60/f_auto/v1/icons/logos/burpsuite-w3f4g0vh9opupo2g5ek92.png" alt="Burp Suite" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Maltego_Logo.svg" alt="Maltego" width="50" />
-
-</div>
-
-
-
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,docker" />
-</div>
 
 
 <div align="center">
@@ -56,24 +32,5 @@
 
 </div>
 
----
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/initials101/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="48" alt="LinkedIn" />
-  </a>
-  <a href="mailto:muriithidennis340@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="48" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/initials101/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="48" alt="Instagram" />
-  </a>
-  <a href="https://x.com/initials101" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="48" alt="Twitter" />
-  </a>
-  <a href="https://www.leetcode.com/initials101" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48" height="48" alt="LeetCode" />
-  </a>
-</div>
 
