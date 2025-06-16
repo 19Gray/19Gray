@@ -21,14 +21,24 @@
 
 
 
-
 <div align="center">
 
-![ALX](https://img.shields.io/badge/ALX-Software_Engineering-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![MERN](https://img.shields.io/badge/Full_Stack-MERN_Development-4ECDC4?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Red Team](https://img.shields.io/badge/Red_Team-Specialist-DC143C?style=for-the-badge&logo=security&logoColor=white)
+  <img src="https://img.shields.io/badge/ALX-Software%20Engineering-FF6B6B?style=for-the-badge&logo=awesomelists&logoColor=white" alt="ALX Software Engineering"/>
+  
+  <img src="https://img.shields.io/badge/Full%20Stack-MERN%20Development-4ECDC4?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack"/>
+  
+  <img src="https://img.shields.io/badge/Red%20Team-Cybersecurity%20Ops-DC143C?style=for-the-badge&logo=hackaday&logoColor=white" alt="Red Team"/>
+  
+  <img src="https://img.shields.io/badge/Certified-Pentest+%20Specialist-6A0572?style=for-the-badge&logo=testing-library&logoColor=white" alt="Pentest Specialist"/>
+  
+  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Expert"/>
+  
+  <img src="https://img.shields.io/badge/Linux-Power%20User-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Power User"/>
+  
+  <img src="https://img.shields.io/badge/GitHub-Open%20Source%20Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contributor"/>
 
 </div>
+
 
 
 
