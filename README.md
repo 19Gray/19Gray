@@ -7,7 +7,7 @@
 -->
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,c,cpp,python,javascript,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,bash" />
 </div>
 
 
