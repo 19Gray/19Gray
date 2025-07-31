@@ -3,13 +3,11 @@
 
 <div align="center">
 <!--   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding Animation" width="600"/>
- -->
-[![Matrix SVG](https://github.com/rodrigograca31/rodrigograca31/blob/master/matrix.svg?raw=true)](https://portfoliowebsite-five-phi.vercel.app/)
- 
+ --> 
  </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,javascript,python" />
 </div>
 
 
@@ -23,7 +21,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 
   <img src="https://img.shields.io/badge/ALX-Software%20Engineering-FF6B6B?style=for-the-badge&logo=awesomelists&logoColor=white" alt="ALX Software Engineering"/>
   
@@ -39,7 +37,7 @@
   
   <img src="https://img.shields.io/badge/GitHub-Open%20Source%20Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contributor"/>
 
-</div>
+</div> -->
 
 
 
