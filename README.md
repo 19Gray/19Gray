@@ -43,8 +43,8 @@
 ---
 
 ## 📫 Connect With Me
-- 🌐 LinkedIn: [Your Name](https://linkedin.com/in/initials101)  
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/f1glcon)  
+- 🌐 LinkedIn: [Gray](https://linkedin.com/in/initials101)  
+- 🐦 Twitter/X: [@f1lcon](https://twitter.com/f1glcon)  
 - 📧 Email: muriithidennis340@email.com  
 - 💰 M-Pesa / PayPal: Available on request  
 
