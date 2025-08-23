@@ -1,64 +1,57 @@
-
-
-
-<!-- <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding Animation" width="600"/>
- </div> -->
-
 <div align="center">
-  <h1>🔴 falcon – Red Team Portfolio</h1>
+  <h1>🔴 Gray – Red Team Portfolio</h1>
   <p><b>Cybersecurity | Red Teaming | Penetration Testing | Python Automation</b></p>
-  <img src="https://skillicons.dev/icons?i=c,python,javascript,linux" />
+  
+  <!-- Skills icons -->
+  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,git,javascript" />
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 IT Graduate (Kenya) with focus on **Cybersecurity & Red Teaming**
-- 💻 Experienced with **Arch Linux, Metasploit, Burp Suite, Maltego, Wireshark, Nmap, SQLmap, ZAP Proxy**
-- 🐍 Strong background in **Python scripting & automation**
-- 🎯 Passionate about **Offensive Security, Exploit Development, and OSINT**
+- 🎓 **IT Graduate** (Kenya) specialized in **Cybersecurity & Red Teaming**  
+- 💻 Skilled with **Arch Linux, Metasploit, Burp Suite, Maltego, Wireshark, Nmap, SQLmap, ZAP Proxy**  
+- 🐍 Strong in **Python scripting** for automation & exploit development  
+- 🎯 Passionate about **Offensive Security, OSINT, and Advanced Red Team operations**  
 
 ---
 
 ## 🚀 Projects & Portfolio
-- 🔍 **Recon Automation Script** – Python tool for subdomain enumeration & port scanning  
-- 🕵🏽 **Sample Web App Pentest Report** – Professional red team style report with findings & recommendations  
-- ⚔️ **HackTheBox & TryHackMe Writeups** – Documenting full exploitation steps, privilege escalation, and lessons learned  
+- 🔍 **Recon Automation Script** → Python tool for subdomain enumeration + port scanning  
+- 🕵🏽 **Sample Web App Pentest Report** → Professional report with findings & recommendations  
+- ⚔️ **HackTheBox & TryHackMe Writeups** → Full exploitation workflows & privilege escalation  
 
-👉 Explore the folders in this repo:
-- `scripts/` → Python tools & automation  
-- `reports/` → Pentest report samples  
-- `writeups/` → CTF / lab walkthroughs  
+📂 Explore my portfolio:
+- `scripts/` → Custom red team tools  
+- `reports/` → Pentest reports  
+- `writeups/` → Lab walkthroughs  
 
 ---
 
 ## 🛠️ Tech & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,javascript" />
   <br/>
   <img src="https://skillicons.dev/icons?i=burpsuite,docker" />
 </div>
 
 ---
 
-## 📫 Connect With Me
-- 🌐 LinkedIn: [Gray](https://linkedin.com/in/initials101)  
-- 🐦 Twitter/X: [@f1lcon](https://twitter.com/f1glcon)  
-- 📧 Email: muriithidennis340@email.com  
-- 💰 M-Pesa / PayPal: Available on request  
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=graynog&show_icons=true&theme=radical" alt="Gray's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graynog&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</div>
 
 ---
 
-⭐️ **“Attack simulations today, defense strategies tomorrow.”**
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/graynog"><img src="https://img.shields.io/badge/LinkedIn-Gray-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/graynog"><img src="https://img.shields.io/badge/Twitter-@graynog-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="mailto:graynog@example.com"><img src="https://img.shields.io/badge/Email-graynog@example.com-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
+---
 
-
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f6Lcon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f6Lcon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div> -->
-
-
-
-
+⭐️ *“Simulating tomorrow’s cyber threats, securing today’s systems.”*  
