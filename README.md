@@ -6,8 +6,52 @@
  </div> -->
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,javascript" />
+  <h1>🔴 falcon – Red Team Portfolio</h1>
+  <p><b>Cybersecurity | Red Teaming | Penetration Testing | Python Automation</b></p>
+  <img src="https://skillicons.dev/icons?i=c,python,javascript,linux" />
 </div>
+
+---
+
+## 🧑‍💻 About Me
+- 🎓 IT Graduate (Kenya) with focus on **Cybersecurity & Red Teaming**
+- 💻 Experienced with **Arch Linux, Metasploit, Burp Suite, Maltego, Wireshark, Nmap, SQLmap, ZAP Proxy**
+- 🐍 Strong background in **Python scripting & automation**
+- 🎯 Passionate about **Offensive Security, Exploit Development, and OSINT**
+
+---
+
+## 🚀 Projects & Portfolio
+- 🔍 **Recon Automation Script** – Python tool for subdomain enumeration & port scanning  
+- 🕵🏽 **Sample Web App Pentest Report** – Professional red team style report with findings & recommendations  
+- ⚔️ **HackTheBox & TryHackMe Writeups** – Documenting full exploitation steps, privilege escalation, and lessons learned  
+
+👉 Explore the folders in this repo:
+- `scripts/` → Python tools & automation  
+- `reports/` → Pentest report samples  
+- `writeups/` → CTF / lab walkthroughs  
+
+---
+
+## 🛠️ Tech & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,html,css,javascript" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=burpsuite,docker" />
+</div>
+
+---
+
+## 📫 Connect With Me
+- 🌐 LinkedIn: [Your Name](https://linkedin.com/in/initials101)  
+- 🐦 Twitter/X: [@yourhandle](https://twitter.com/f1glcon)  
+- 📧 Email: muriithidennis340@email.com  
+- 💰 M-Pesa / PayPal: Available on request  
+
+---
+
+⭐️ **“Attack simulations today, defense strategies tomorrow.”**
+
 
 
 <!-- <div align="center">
