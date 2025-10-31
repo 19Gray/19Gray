@@ -3,6 +3,7 @@
   
   <!-- Skills icons -->
   <img src="https://skillicons.dev/icons?i=,c,linux,bash,git" />
-  ![GitHub GIF](githubgif.gif)
 
 </div> 
+
+  ![GitHub GIF](githubgif.gif)
