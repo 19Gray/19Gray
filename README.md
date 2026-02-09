@@ -7,17 +7,8 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19Gray&theme=tokyonight) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=19Gray&theme=tokyonight)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19Gray&theme=tokyonight)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19Gray&theme=tokyonight)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=19Gray&theme=tokyonight&utcOffset=8)  
-  
+
 </div>
 
   
-
-
-
-
-
-
-
   ![GitHub GIF](githubgif.gif)
