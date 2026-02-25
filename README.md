@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Security+Researcher;Backend+Engineer;Ethical+Hacker;Rust+Systems+Developer" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=19Gray&label=VISITORS&color=00ff41&style=flat" />
-</p>
-
 ---
 
 ## 🖥️ Terminal
@@ -49,9 +45,6 @@ Secure Medical Reference & Data Retrieval Platform
 <tr>
 <td>
 <img src="https://streak-stats.demolab.com?user=19Gray&theme=shadow-green&hide_border=true"/>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19Gray&theme=shadow-green"/>
 </td>
 </tr>
 </table>
