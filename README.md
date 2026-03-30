@@ -110,16 +110,7 @@ Building unbreakable systems by breaking them first | Red Team | CTF | Zero-days
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Offensive+Security+Engineer;Reverse+Engineering+Specialist;Production+Infrastructure;Red+Team+Operator;CTF+Champion;Zero-Day+Hunter" alt="Typing SVG" />
 
 ## ⚡ EXECUTION LOOP
 
-```bash
-$ sudo ./pwntools.sh
-[+] Scanning perimeter...
-[+] Building unbreakable systems...
-[+] Deploying exploits...
-[+] Securing the breach...
-[*] Loop complete. Repeat? [Y/n] y
+<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Hacker Loop">
