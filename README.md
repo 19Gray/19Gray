@@ -78,8 +78,26 @@ Building unbreakable systems by breaking them first | Red Team | CTF | Zero-days
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Gray&layout=compact&theme=transparent&hide_border=true&title_color=00FF41&text_color=AAAAAA" />
 
-</p>
+<br/><br/>
 
+<!-- Additional Metrics Cards -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=19Gray&theme=gruvbox&border_radius=13.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19Gray&theme=gruvbox&bg_color=000000&title_color=00FF41&text_color=AAAAAA&ring_color=00FF41)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=19Gray&theme=gruvbox&bg_color=000000&title_color=00FF41&text_color=AAAAAA)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19Gray&theme=gruvbox&bg_color=000000&title_color=00FF41&text_color=AAAAAA)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19Gray&theme=gruvbox&bg_color=000000&title_color=00FF41&text_color=AAAAAA&ring_color=00FF41)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=19Gray&theme=gruvbox&bg_color=000000&title_color=00FF41&text_color=AAAAAA)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&color=00FF41&border_color=00FF41&bg_color=000000&border_radius=13" />
+
+</p>
 ---
 
 ## 📡 LIVE DATA STREAM
