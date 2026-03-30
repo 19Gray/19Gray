@@ -69,17 +69,17 @@ Building unbreakable systems by breaking them first | Red Team | CTF | Zero-days
 <p align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=radical&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=AAAAAA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=AAAAAA&cache_seconds=1800" />
 
   <br/>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=radical&hide_border=true&show_streak=true&title_color=00FF41&icon_color=00FF41&text_color=AAAAAA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=tokyonight&hide_border=true&show_streak=true&title_color=00FF41&icon_color=00FF41&text_color=AAAAAA&cache_seconds=1800" />
 
   <br/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Gray&layout=compact&theme=radical&hide_border=true&title_color=00FF41&text_color=AAAAAA" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Gray&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41&text_color=AAAAAA&cache_seconds=1800" />
 
 </p>
 
