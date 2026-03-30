@@ -68,18 +68,18 @@ Building unbreakable systems by breaking them first | Red Team | CTF | Zero-days
 
 <p align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=AAAAAA&cache_seconds=1800" />
+  <!-- Neon Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=39FF14&cache_seconds=1800" style="filter: drop-shadow(0 0 10px #00FF41); border-radius: 15px;" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=tokyonight&hide_border=true&show_streak=true&title_color=00FF41&icon_color=00FF41&text_color=AAAAAA&cache_seconds=1800" />
+  <!-- Neon Streak Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=vision-friendly-dark&hide_border=true&show_streak=true&title_color=00FF41&icon_color=00FF41&text_color=39FF14&cache_seconds=1800" style="filter: drop-shadow(0 0 15px #00FF41); border-radius: 15px;" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Gray&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41&text_color=AAAAAA&cache_seconds=1800" />
+  <!-- Top Languages Neon -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Gray&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=00FF41&text_color=39FF14&cache_seconds=1800" style="filter: drop-shadow(0 0 12px #00FF41); border-radius: 15px;" />
 
 </p>
 
