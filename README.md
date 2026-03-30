@@ -67,9 +67,17 @@ Building unbreakable systems by breaking them first | Red Team | CTF | Zero-days
 ## 📊 SYSTEM METRICS
 
 <p align="center">
-  ![Repos](https://img.shields.io/github/repos/19Gray?color=00FF41&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/19Gray?color=00FF41&style=for-the-badge)
-  ![Top Language](https://img.shields.io/github/languages/top/19Gray?color=00FF41&style=for-the-badge)
+
+<img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=AAAAAA" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=19Gray&theme=transparent&hide_border=true&ring=00FF41&fire=00FF41" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Gray&layout=compact&theme=transparent&hide_border=true&title_color=00FF41&text_color=AAAAAA" />
+
 </p>
 
 ---
