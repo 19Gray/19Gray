@@ -68,15 +68,18 @@ Building unbreakable systems by breaking them first | Red Team | CTF | Zero-days
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=AAAAAA" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=AAAAAA" />
 
-<br/>
+  <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=19Gray&theme=transparent&hide_border=true&ring=00FF41&fire=00FF41" />
+  <!-- Streak Stats (via show_streak=true) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=19Gray&show_icons=true&theme=transparent&hide_border=true&show_streak=true&title_color=00FF41&icon_color=00FF41&text_color=AAAAAA" />
 
-<br/>
+  <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Gray&layout=compact&theme=transparent&hide_border=true&title_color=00FF41&text_color=AAAAAA" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Gray&layout=compact&theme=transparent&hide_border=true&title_color=00FF41&text_color=AAAAAA" />
 
 </p>
 
