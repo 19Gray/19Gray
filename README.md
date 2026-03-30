@@ -110,10 +110,6 @@ Building unbreakable systems by breaking them first | Red Team | CTF | Zero-days
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Offensive+Security;Reverse+Engineering;Production+Infra;Red+Team+Operator;CTF+Destroyer;Zero-Day+Hunter" alt="Typing SVG" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Offensive+Security;Reverse+Engineering;Production+Infra;Red+Team+Operator;CTF+Destroyer;Zero-Day+Hunter" alt="Typing SVG" />
-
 ## ⚡ EXECUTION LOOP
 
 ```rust
