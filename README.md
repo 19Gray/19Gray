@@ -113,11 +113,4 @@ Building unbreakable systems by breaking them first | Red Team | CTF | Zero-days
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1500&color=00FF00&center=true&vCenter=true&width=800&lines=BUILD;EXPLOIT;SECURE;BUILD;EXPLOIT;SECURE" alt="Execution Loop" />
 
-## ⚡ EXECUTION LOOP
 
-```rust
-loop {
-    build();
-    exploit();
-    secure();
-}
