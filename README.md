@@ -1,26 +1,18 @@
-<!-- ███████ SYSTEM BOOT ███████ -->
-
+<!-- HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=ACCESSING%20NODE%2019GRAY&fontSize=35&fontColor=00FF41&animation=fadeIn"/>
-</p>
-
----
-
-<!-- TERMINAL BOOT SEQUENCE -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=900&pause=400&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+interface...;Bypassing+firewalls...;Injecting+payload...;Access+Granted+✔"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=160&section=header"/>
 </p>
 
 ---
 
 <!-- IDENTITY -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=🔥+RED+TEAM+OPERATOR;⚡+SYSTEMS+ENGINEER;🛡️+BACKEND+ARCHITECT;🎯+EXPLOIT+DEVELOPER"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=RED+TEAM+OPERATOR;BACKEND+ARCHITECT;RUST+SYSTEMS+ENGINEER;EXPLOIT+DEVELOPER" />
 </p>
 
 <p align="center">
 <span style="color:#00FF41;font-family:monospace;">
-root@19gray:~# Offensive Security | Reverse Engineering | Infrastructure
+Offensive Security • Reverse Engineering • Infrastructure
 </span>
 </p>
 
@@ -33,20 +25,53 @@ root@19gray:~# Offensive Security | Reverse Engineering | Infrastructure
 
 ---
 
-# 🧠 CLASSIFIED SYSTEMS
-
+<!-- STACK -->
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=700&color=00FF41&center=true&width=800&lines=Loading+classified+modules...;Decrypting+project+data..." />
+<img src="https://skillicons.dev/icons?i=rust,nodejs,python,mongodb,docker,kubernetes,aws,linux,git&theme=dark" />
 
 </p>
 
-### 🔐 MEDREF // [ACTIVE SYSTEM]
+---
 
-```bash
-> System Name: MedRef
-> Status: OPERATIONAL
-> Type: Medical Reference Intelligence System
-> Stack: Node.js | MongoDB | Secure API Architecture
-> Purpose: Deliver fast, reliable clinical reference data
-> Mode: Hackathon Deployment Ready
+<!-- STATS -->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=19Gray&theme=transparent&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=19Gray&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true"/>
+</p>
+
+---
+
+<!-- NETWORK -->
+<p align="center">
+
+<a href="https://github.com/19Gray">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+
+<a href="https://linkedin.com/in/19Gray">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+</a>
+
+<a href="https://muriithi-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/>
+</a>
+
+</p>
+
+---
+
+<!-- LOOP -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=1200&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=BUILD_;EXPLOIT_;SECURE" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=120&section=footer"/>
+</p>
