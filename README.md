@@ -101,5 +101,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:001a0a,100:000000&height=120&section=footer&text=Coffee&fontSize=38&fontColor=00FF41"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:001a0a,100:000000&height=120&section=footer&text=010100110101011101000101&fontSize=38&fontColor=00FF41"/>
 </p>
