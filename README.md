@@ -29,7 +29,7 @@
 
 ---
 
-<!-- CENTERED STATS MODULE (TILED) -->
+<!-- CENTERED STATS MODULE (TILED) - FIXED -->
 <p align="center">
 
 <table cellspacing="15">
@@ -41,12 +41,12 @@
            alt="GitHub Streak" style="border-radius:12px;" />
     </td>
 
-    <!-- Language Stats Card (Fixed) -->
-<td align="center" bgcolor="#0a0a0a" style="border-radius:15px; padding:15px; box-shadow: 0 0 20px #00FF41;">
-  <h3 style="color:#00FF41;">📝 Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRAY-XIX&layout=compact&theme=dark" 
-       alt="Top Languages" style="border-radius:12px;" />
-</td>
+    <!-- Language Stats Card (FIXED) -->
+    <td align="center" bgcolor="#0a0a0a" style="border-radius:15px; padding:15px; box-shadow: 0 0 20px #00FF41;">
+      <h3 style="color:#00FF41;">📝 Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRAY-XIX&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&border_color=00FF41&title_color=00FF41&text_color=7affb3" 
+           alt="Top Languages" style="border-radius:12px;" />
+    </td>
   </tr>
 
   <tr>
