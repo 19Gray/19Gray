@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=160&section=header"/>
 </p>
 
----
+
 
 <!-- IDENTITY -->
 <p align="center">
@@ -16,14 +16,12 @@ Offensive Security • Reverse Engineering • Infrastructure
 </span>
 </p>
 
----
 
 <!-- DIVIDER -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2"/>
 </p>
 
----
 
 <!-- STACK -->
 <p align="center">
@@ -32,7 +30,7 @@ Offensive Security • Reverse Engineering • Infrastructure
 
 </p>
 
----
+
 
 <!-- STATS -->
 <p align="center">
@@ -43,7 +41,7 @@ Offensive Security • Reverse Engineering • Infrastructure
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=19Gray&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true"/>
 </p>
 
----
+
 
 <!-- NETWORK -->
 <p align="center">
@@ -62,14 +60,13 @@ Offensive Security • Reverse Engineering • Infrastructure
 
 </p>
 
----
+
 
 <!-- LOOP -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=1200&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=BUILD_;EXPLOIT_;SECURE" />
 </p>
 
----
 
 <!-- FOOTER -->
 <p align="center">
