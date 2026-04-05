@@ -29,31 +29,46 @@
 
 ---
 
-<!-- CENTERED NEON STATS MODULE -->
+<!-- ============================================ -->
+<!-- UNIFORM STATS SECTION — CENTERED TILES, NO WASTED SPACE -->
+<!-- ============================================ -->
+
+<!-- ROW 1: Streak + Repos per Language (side by side, uniform) -->
 <p align="center">
+  <table border="0" cellspacing="0" cellpadding="10" align="center">
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRAY-XIX&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0D1117&stroke=00FF4166"
+             alt="GitHub Streak"
+             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
+      </td>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GRAY-XIX&theme=dark"
+             alt="Repos per Language"
+             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRAY-XIX&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"
-       alt="GitHub Streak"
-       style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px;" />
+<br/>
 
-  <br/><br/>
-
-  <!-- Language Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GRAY-XIX&theme=dark"
-       alt="Repos per Language"
-       style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GRAY-XIX&theme=dark"
-       alt="Most Commit Language"
-       style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px;" />
-
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GRAY-XIX&bg_color=0a0a0a&color=00FF41&line=00FF41&point=aaaaaa&hide_border=true"
-       alt="GitHub Activity Graph"
-       style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px;" />
-
+<!-- ROW 2: Most Commit Language + Activity Graph (uniform) -->
+<p align="center">
+  <table border="0" cellspacing="0" cellpadding="10" align="center">
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GRAY-XIX&theme=dark"
+             alt="Most Commit Language"
+             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
+      </td>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GRAY-XIX&bg_color=0a0a0a&color=00FF41&line=00FF41&point=aaaaaa&hide_border=true&area=true&area_color=00ff411a"
+             alt="GitHub Activity Graph"
+             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <br/><br/>
@@ -62,17 +77,15 @@
 
 <!-- NETWORK MODULE -->
 <p align="center">
-<a href="https://github.com/GRAY-XIX">
-  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41"/>
-</a>
-
-<a href="https://linkedin.com/in/GRAY-XIX">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
-</a>
-
-<a href="https://muriithi-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FF41"/>
-</a>
+  <a href="https://github.com/GRAY-XIX">
+    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41"/>
+  </a>
+  <a href="https://linkedin.com/in/GRAY-XIX">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+  </a>
+  <a href="https://muriithi-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FF41"/>
+  </a>
 </p>
 
 <br/><br/>
