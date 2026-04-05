@@ -22,7 +22,7 @@
 
 <!-- STACK MODULE -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,nodejs,python,mongodb,docker,kubernetes,aws,linux,git,react,expressjs&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=rust,nodejs,mongodb,docker,linux,git,react,expressjs&theme=dark"/>
 </p>
 
 <br/><br/>
