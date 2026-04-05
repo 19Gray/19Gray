@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0a0a,100:001a0a&height=160&section=header&text=GRAY-XIX&fontSize=38&fontColor=00FF41"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0a0a,100:001a0a&height=160&section=header&text=GRAY&fontSize=38&fontColor=00FF41"/>
 </p>
 
 ---
@@ -101,5 +101,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:001a0a,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:001a0a,100:000000&height=120&section=footer&text=c<0d>E"/>
 </p>
