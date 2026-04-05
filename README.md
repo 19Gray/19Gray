@@ -75,23 +75,6 @@
 
 ---
 
-<!-- NETWORK MODULE -->
-<p align="center">
-  <a href="https://github.com/GRAY-XIX">
-    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41"/>
-  </a>
-  <a href="https://linkedin.com/in/GRAY-XIX">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
-  </a>
-  <a href="https://muriithi-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FF41"/>
-  </a>
-</p>
-
-<br/><br/>
-
----
-
 <!-- LOOP MODULE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=1400&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=BUILD_;EXPLOIT_;SECURE"/>
