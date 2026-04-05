@@ -29,26 +29,37 @@
 
 ---
 
-<!-- CENTERED STATS MODULE -->
+<!-- CENTERED STATS MODULE (TILED) -->
 <p align="center">
 
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRAY-XIX&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" 
-       alt="GitHub Streak" />
+<table cellspacing="15">
+  <tr>
+    <!-- Streak Card -->
+    <td align="center" bgcolor="#0a0a0a" style="border-radius:15px; padding:15px; box-shadow: 0 0 20px #00FF41;">
+      <h3 style="color:#00FF41;">🔥 Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRAY-XIX&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" 
+           alt="GitHub Streak" style="border-radius:12px;" />
+    </td>
 
-  <br/><br/>
+    <!-- Language Stats Card -->
+    <td align="center" bgcolor="#0a0a0a" style="border-radius:15px; padding:15px; box-shadow: 0 0 20px #00FF41;">
+      <h3 style="color:#00FF41;">📝 Languages</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GRAY-XIX&theme=dark" 
+           alt="Repos per Language" style="border-radius:12px; margin-bottom:8px;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GRAY-XIX&theme=dark" 
+           alt="Most Commit Language" style="border-radius:12px;" />
+    </td>
+  </tr>
 
-  <!-- Language Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GRAY-XIX&theme=dark" 
-       alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GRAY-XIX&theme=dark" 
-       alt="Most Commit Language" />
-
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GRAY-XIX&bg_color=0a0a0a&color=00FF41&line=00FF41&point=00FF41&hide_border=true" 
-       alt="GitHub Activity Graph" />
+  <tr>
+    <!-- Activity Graph Card -->
+    <td colspan="2" align="center" bgcolor="#0a0a0a" style="border-radius:15px; padding:15px; box-shadow: 0 0 20px #00FF41;">
+      <h3 style="color:#00FF41;">📊 Activity Graph</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=GRAY-XIX&bg_color=0a0a0a&color=00FF41&line=00FF41&point=00FF41&hide_border=true" 
+           alt="GitHub Activity Graph" style="border-radius:12px;" />
+    </td>
+  </tr>
+</table>
 
 </p>
 
