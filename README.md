@@ -43,9 +43,9 @@
              style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
       </td>
       <td align="center" valign="middle" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GRAY-XIX&theme=blue_green&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0D1117&stroke=00FF4166"
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GRAY-XIX&theme=transparent&hide_border=true"
              alt="Repos per Language"
-             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
+             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px; background: transparent;" />
       </td>
     </tr>
   </table>
@@ -58,9 +58,9 @@
   <table border="0" cellspacing="0" cellpadding="10" align="center">
     <tr>
       <td align="center" valign="middle" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GRAY-XIX&theme=blue_green&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0D1117&stroke=00FF4166"
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GRAY-XIX&theme=transparent&hide_border=true"
              alt="Most Commit Language"
-             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
+             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px; background: transparent;" />
       </td>
       <td align="center" valign="middle" width="50%">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=GRAY-XIX&bg_color=0a0a0a&color=00FF41&line=00FF41&point=aaaaaa&hide_border=true&area=true&area_color=00ff411a"
