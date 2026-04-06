@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0a0a,100:001a0a&height=160&section=header&text=GRAY&fontSize=38&fontColor=00FF41"/>
 </p>
 
----
 
 <!-- IDENTITY MODULE -->
 <p align="center">
@@ -18,7 +17,7 @@
 
 <br/><br/>
 
----
+
 
 <!-- STACK MODULE -->
 <p align="center">
@@ -27,7 +26,6 @@
 
 <br/><br/>
 
----
 
 <!-- ============================================ -->
 <!-- UNIFORM STATS SECTION — CENTERED TILES, NO WASTED SPACE -->
@@ -73,14 +71,13 @@
 
 <br/><br/>
 
----
+
 
 <!-- LOOP MODULE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=1400&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=BUILD_;EXPLOIT_;SECURE"/>
 </p>
 
----
 
 <!-- FOOTER -->
 <p align="center">
